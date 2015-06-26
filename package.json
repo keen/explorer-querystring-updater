@@ -1,0 +1,10 @@
+{
+  "name": "explorer-query-updater",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "lodash": "3.2.0",
+    "qs": "2.2.3",
+    "yargs": "3.13.0"
+  }
+}
